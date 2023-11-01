@@ -22,7 +22,7 @@ Key Predictors: Square foot of living, house grade, condition of the house, No. 
 
 ![Heatmap](https://github.com/Isaac-Munyaka/Phase_2_Project/assets/116347833/61a77090-2d97-45ea-93c4-24b9f2617c83)
 
-sqft_living, bathrooms, grade and sqft_above have multicollinearity of 0.7 and above. This information is useful in deciding which variables to use in our model to avoid inaccuracies. Square fit leaving has the highest correlation with price
+sqft_living, bathrooms, grade and sqft_above have multicollinearity of 0.7 and above. This information is useful in deciding which variables to use in our model to avoid inaccuracies. Square fit leaving has the highest correlation with price.
 
 ### **Modelling**
 
